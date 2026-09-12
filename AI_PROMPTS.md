@@ -1,7 +1,5 @@
 # AI Prompts & Engineering Log — Smart India Hackathon (SIH) Remake
 
-This log documents the prompt evolution, architectural planning, and design thinking applied during the rebuild of the Smart India Hackathon portal.
-
 ---
 
 ### Prompt 1: Project Initiation & Architectural Calibration
