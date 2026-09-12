@@ -1,5 +1,10 @@
 # Smart India Hackathon 2026 — Next-Gen Redesign
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-sih--website--remake.vercel.app-00df8f?style=for-the-badge&logo=vercel&logoColor=white)](https://sih-website-remake.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://sih-website-remake.vercel.app)
+
+> 🚀 **Live Site:** [https://sih-website-remake.vercel.app](https://sih-website-remake.vercel.app)
+
 A motion-rich, frontend-only reimagining of the **Smart India Hackathon (SIH)** portal — the world's largest open innovation initiative organized by the Ministry of Education's Innovation Cell (MIC) and AICTE, Government of India.
 
 ---
@@ -76,7 +81,17 @@ Rather than a conventional government portal with clunky nested tables and stati
 
 ---
 
-## 5. Running the Application Locally
+## 5. Live Deployment
+
+The project is continuously deployed on **Vercel**:
+
+- **Production URL:** [https://sih-website-remake.vercel.app](https://sih-website-remake.vercel.app)
+- **Framework Preset:** Vite
+- **Deployment Status:** Production Ready
+
+---
+
+## 6. Running the Application Locally
 
 ```bash
 # 1. Install dependencies
@@ -85,6 +100,6 @@ npm install
 # 2. Run the development server
 npm run dev
 
-# 3. Build for production (Vercel ready)
+# 3. Build for production
 npm run build
 ```
